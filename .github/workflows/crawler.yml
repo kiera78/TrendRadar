@@ -1,4 +1,4 @@
-name: Crawler d1
+name: Crawler V1
 
 on:
   workflow_dispatch:
